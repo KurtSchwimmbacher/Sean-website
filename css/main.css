@@ -55,3 +55,7 @@ header{
     font-family: 'Montserrat', sans-serif;
    font-size: 62px;
 }
+
+.render-heading{
+    color: #f4f4f4;
+}
